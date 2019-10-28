@@ -8,4 +8,5 @@ artists = ["Frida Kahlo", "Pablo Picasso", "Cai Guo-Qiang"]
 artists.pop
 #=> "Cai Guo-Qiang"
 
-a
+astists
+#=> ["Frida Kahlo", "Pablo Picasso"]
